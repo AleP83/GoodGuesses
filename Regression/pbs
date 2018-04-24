@@ -1,0 +1,1 @@
+clang++ -I /Users/alessandroperi/GoogleDrive/C/eclipse/GSLlibrary/gsl-1.15_universal/include/ main.cpp -L/Users/alessandroperi/GoogleDrive/C/eclipse/GSLlibrary/gsl-1.15_universal/libs -lgsl -lgslcblas -o main
